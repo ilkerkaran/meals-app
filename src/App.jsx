@@ -1,8 +1,8 @@
 import React from 'react'
-import { View, Text } from 'react-native'
+import CategoriesScreen from './screens/CategoriesScreen'
 
 const App = () => (
-  <View><Text>app</Text></View>
+  <CategoriesScreen />
 )
 
 export default App
